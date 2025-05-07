@@ -7,3 +7,9 @@ This Learning Management System (LMS) provides a platform for:
 - User profiles and activity tracking
 - Real-time notifications
 - Secure authentication via OAuth 2.0
+## Technology Stack
+
+- *Backend*: Spring Boot 3.x, Java 17
+- *Frontend*: React 18, Bootstrap
+- *Database*: MongoDB
+- *Authentication*: OAuth 2.0 with social login
